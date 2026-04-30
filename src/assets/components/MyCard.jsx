@@ -3,8 +3,9 @@ function myCard() {
 
         <div class="card">
             <div class="card-body">
+                <h1>Learn Web development</h1>
                 <button className="btn btn-primary">Primary</button>
-                <p>This is some text within a card body.</p>
+                <p>questas è una card</p>
             </div>
         </div>
     </>
