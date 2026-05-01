@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import MyCard from './MyCard.jsx'
+import MyCard from './assets/components/MyCard.jsx'
 
 function App() {
   return <>
